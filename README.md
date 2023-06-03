@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CharlesArauj
-- 👀 I’m interested in  Front-End
+- 👀 I’m interested in avançar Como um FRONT-END.
 - 🌱 I’m currently learning  Javascript mais que a metade do curso.
-- 💞️ I’m looking to collaborate on  projetos iniciais
+- 💞️ I’m looking to collaborate on  projetos iniciais = avançadoss!
 - 📫 How to reach me  pelo E-mail:charlesaraujo455@gmail.com
 - I  COMECEI ESSA JORNADA NO ANO DE 2020.
 <!---
